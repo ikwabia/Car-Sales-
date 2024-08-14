@@ -1,7 +1,7 @@
 # Analysing sales of cars in the USA, to inform decisions on the general outlook.
 
 # 1. Affordability Analysis
-Question: How does the affordability of cars, measured by the ratio of a buyer's income to the car's purchase price, vary across different income levels?
+Question: How does the affordability of cars, measured by the buyer's income to the car's purchase price, vary across different income levels?
 
 Objective: To analyze and categorize the affordability of cars based on buyers' income and car purchase prices. Identify trends and patterns in the affordability of cars among different income groups.
 
