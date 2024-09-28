@@ -58,4 +58,4 @@ The last quarter of 2023 was a record-breaker, with the highest sales recorded f
 Austin is leading the way with an impressive sales performance, recording a staggering $28,341.60 million. Go Austin!
 ## Data Source: Kaggle
 
-For more details, check out the full report and code https://github.com/ikwabia/Car-Sales
+For more details, check out the full report and code https://github.com/ikwabia/Car-Sales-
